@@ -30,13 +30,27 @@ footer {
 /* Mediaquery voor nog kleinere schermen, zoals telefoons */
 @media (max-width: 576px) {
     .figure-caption {
-        font-size: 0.5em;
+        font-size: 0.7em;
+    }
+}
+
+/* Mediaquery voor nog kleinere schermen, zoals telefoons */
+@media (max-width: 386px) {
+    .figure-caption {
+        font-size: 0.6em;
     }
 }
 
 /* Mediaquery voor nog kleinere schermen, zoals telefoons */
 @media (max-width: 288px) {
     .figure-caption {
-        font-size: 0.2em;
+        font-size: 0.4em;
+    }
+}
+
+/* Mediaquery voor nog kleinere schermen, zoals telefoons */
+@media (max-width: 190px) {
+    .figure-caption {
+        font-size: 0.3em;
     }
 }
